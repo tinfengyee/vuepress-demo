@@ -1,9 +1,9 @@
 ---
 home: true
 heroImage: /hero.png
-heroText: 开始阅读 →
-tagline: Hero 副标题
-actionText: 快速上手 →
+heroText: Tinf - 天枫的blog
+tagline: 系统性学习, 掌握前端知识体系
+actionText: 开始阅读 →
 actionLink: /article/
 features:
 - title: JS进阶
