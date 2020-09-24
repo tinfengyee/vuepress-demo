@@ -2,7 +2,7 @@
   "name": "tinfengyee.github.io",
   "version": "1.0.0",
   "description": "tinfeng blog",
-  "homepage": "https://tinfengyee.github.io",
+  "homepage": "https://tinfengyee.github.io/vuepress-demo",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs",
