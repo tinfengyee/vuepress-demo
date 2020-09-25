@@ -5,7 +5,7 @@ module.exports = ctx => ({
   dest: 'dist',
   smoothScroll: true,
   markdown: {
-    lineNumbers: true
+    lineNumbers: false
   },
   themeConfig: {
     logo: '/logo.png',
