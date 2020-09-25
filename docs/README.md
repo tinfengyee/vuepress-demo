@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /hero.png
-heroText: Tinf - 天枫的blog
+heroText: Tinf - 天枫前端
 tagline: 系统性学习, 掌握前端知识体系
 actionText: 开始阅读 →
 actionLink: /article/
